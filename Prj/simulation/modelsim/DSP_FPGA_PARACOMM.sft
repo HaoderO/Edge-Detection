@@ -1,0 +1,6 @@
+set tool_name "ModelSim (VHDL)"
+set corner_file_list {
+	{{"Slow -7 1.2V 100 Model"} {DSP_FPGA_PARACOMM_7_1200mv_100c_slow.vho DSP_FPGA_PARACOMM_7_1200mv_100c_vhd_slow.sdo}}
+	{{"Slow -7 1.2V -40 Model"} {DSP_FPGA_PARACOMM_7_1200mv_-40c_slow.vho DSP_FPGA_PARACOMM_7_1200mv_-40c_vhd_slow.sdo}}
+	{{"Fast -M 1.2V -40 Model"} {DSP_FPGA_PARACOMM_min_1200mv_-40c_fast.vho DSP_FPGA_PARACOMM_min_1200mv_-40c_vhd_fast.sdo}}
+}
