@@ -1,0 +1,91 @@
+# Copyright (C) 1991-2013 Altera Corporation
+# Your use of Altera Corporation's design tools, logic functions 
+# and other software and tools, and its AMPP partner logic 
+# functions, and any output files from any of the foregoing 
+# (including device programming or simulation files), and any 
+# associated documentation or information are expressly subject 
+# to the terms and conditions of the Altera Program License 
+# Subscription Agreement, Altera MegaCore Function License 
+# Agreement, or other applicable license agreement, including, 
+# without limitation, that your use is for the sole purpose of 
+# programming logic devices manufactured by Altera and sold by 
+# Altera or its authorized distributors.  Please refer to the 
+# applicable agreement for further details.
+
+# Quartus II 64-Bit Version 13.1.0 Build 162 10/23/2013 SJ Full Version
+# File: D:\HaoGuojun\MyProject\FPGAProject\HUT_COET\DSP_FPGA_COMM\Prj\output_files\DSP_FPGA_COMM.csv
+# Generated on: Sat May 14 20:47:04 2022
+
+# Note: The column header names should not be changed if you wish to import this .csv file into the Quartus II software.
+
+To,Direction,Location,I/O Bank,VREF Group,Fitter Location,I/O Standard,Reserved,Current Strength,Slew Rate,Differential Pair
+altera_reserved_tck,Input,,,,PIN_L2,,,,,
+altera_reserved_tdi,Input,,,,PIN_L5,,,,,
+altera_reserved_tdo,Output,,,,PIN_L4,,,,,
+altera_reserved_tms,Input,,,,PIN_L1,,,,,
+CLK_30M,Input,PIN_B12,7,B7_N2,PIN_B12,,,,,
+DATA_IN[15],Input,,,,PIN_D10,,,,,
+DATA_IN[14],Input,,,,PIN_F8,,,,,
+DATA_IN[13],Input,,,,PIN_C7,,,,,
+DATA_IN[12],Input,,,,PIN_B8,,,,,
+DATA_IN[11],Input,,,,PIN_B10,,,,,
+DATA_IN[10],Input,,,,PIN_E9,,,,,
+DATA_IN[9],Input,,,,PIN_E12,,,,,
+DATA_IN[8],Input,,,,PIN_E4,,,,,
+DATA_IN[7],Input,,,,PIN_J4,,,,,
+DATA_IN[6],Input,,,,PIN_E13,,,,,
+DATA_IN[5],Input,,,,PIN_B4,,,,,
+DATA_IN[4],Input,,,,PIN_F10,,,,,
+DATA_IN[3],Input,,,,PIN_A14,,,,,
+DATA_IN[2],Input,,,,PIN_E11,,,,,
+DATA_IN[1],Input,,,,PIN_D6,,,,,
+DATA_IN[0],Input,,,,PIN_G21,,,,,
+DATA_OUT[15],Output,,,,PIN_E8,,,,,
+DATA_OUT[14],Output,,,,PIN_E6,,,,,
+DATA_OUT[13],Output,,,,PIN_B14,,,,,
+DATA_OUT[12],Output,,,,PIN_E3,,,,,
+DATA_OUT[11],Output,,,,PIN_C4,,,,,
+DATA_OUT[10],Output,,,,PIN_H7,,,,,
+DATA_OUT[9],Output,,,,PIN_F11,,,,,
+DATA_OUT[8],Output,,,,PIN_B13,,,,,
+DATA_OUT[7],Output,,,,PIN_C8,,,,,
+DATA_OUT[6],Output,,,,PIN_H5,,,,,
+DATA_OUT[5],Output,,,,PIN_D8,,,,,
+DATA_OUT[4],Output,,,,PIN_D7,,,,,
+DATA_OUT[3],Output,,,,PIN_E5,,,,,
+DATA_OUT[2],Output,,,,PIN_A13,,,,,
+DATA_OUT[1],Output,,,,PIN_C10,,,,,
+DATA_OUT[0],Output,,,,PIN_F7,,,,,
+RAMA_FULL,Output,,,,PIN_AA7,,,,,
+RAMB_FULL,Input,,,,PIN_G22,,,,,
+XA[11],Input,PIN_A10,8,B8_N0,PIN_A10,,,,,
+XA[10],Input,PIN_B9,8,B8_N0,PIN_B9,,,,,
+XA[9],Input,PIN_A9,8,B8_N0,PIN_A9,,,,,
+XA[8],Input,PIN_A8,8,B8_N0,PIN_A8,,,,,
+XA[7],Input,PIN_B7,8,B8_N0,PIN_B7,,,,,
+XA[6],Input,PIN_A7,8,B8_N0,PIN_A7,,,,,
+XA[5],Input,PIN_B6,8,B8_N0,PIN_B6,,,,,
+XA[4],Input,PIN_A6,8,B8_N0,PIN_A6,,,,,
+XA[3],Input,PIN_B5,8,B8_N1,PIN_B5,,,,,
+XA[2],Input,PIN_A5,8,B8_N1,PIN_A5,,,,,
+XA[1],Input,PIN_A4,8,B8_N1,PIN_A4,,,,,
+XA[0],Input,PIN_B3,8,B8_N2,PIN_B3,,,,,
+XD[15],Bidir,PIN_C3,8,B8_N2,PIN_C3,,,,,
+XD[14],Bidir,PIN_J6,1,B1_N0,PIN_J6,,,,,
+XD[13],Bidir,PIN_H6,1,B1_N0,PIN_H6,,,,,
+XD[12],Bidir,PIN_H4,1,B1_N1,PIN_H4,,,,,
+XD[11],Bidir,PIN_H3,1,B1_N0,PIN_H3,,,,,
+XD[10],Bidir,PIN_G3,1,B1_N0,PIN_G3,,,,,
+XD[9],Bidir,PIN_F1,1,B1_N1,PIN_F1,,,,,
+XD[8],Bidir,PIN_G5,1,B1_N0,PIN_G5,,,,,
+XD[7],Bidir,PIN_F2,1,B1_N1,PIN_F2,,,,,
+XD[6],Bidir,PIN_E1,1,B1_N0,PIN_E1,,,,,
+XD[5],Bidir,PIN_D2,1,B1_N0,PIN_D2,,,,,
+XD[4],Bidir,PIN_C1,1,B1_N0,PIN_C1,,,,,
+XD[3],Bidir,PIN_C2,1,B1_N0,PIN_C2,,,,,
+XD[2],Bidir,PIN_B1,1,B1_N0,PIN_B1,,,,,
+XD[1],Bidir,PIN_B2,1,B1_N0,PIN_B2,,,,,
+XD[0],Bidir,PIN_E7,8,B8_N2,PIN_E7,,,,,
+XRD,Input,PIN_F9,8,B8_N2,PIN_F9,,,,,
+XWE,Input,PIN_C6,8,B8_N1,PIN_C6,,,,,
+XZCS_7,Input,PIN_A3,8,B8_N2,PIN_A3,,,,,
