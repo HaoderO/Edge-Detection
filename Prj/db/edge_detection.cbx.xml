@@ -1,9 +1,0 @@
-<?xml version="1.0" ?>
-<LOG_ROOT>
-	<PROJECT NAME="edge_detection">
-		<CBX_INST_ENTRY INSTANCE_NAME="|edge_detection|pll_ip:u0|altpll:altpll_component" CBX_FILE_NAME="pll_ip_altpll.v"/>
-		<CBX_INST_ENTRY INSTANCE_NAME="|edge_detection|sobel_algorithm:u2|fifo_ip:fifo_1|scfifo:scfifo_component" CBX_FILE_NAME="scfifo_m521.tdf"/>
-		<CBX_INST_ENTRY INSTANCE_NAME="|edge_detection|sobel_algorithm:u2|fifo_ip:fifo_2|scfifo:scfifo_component" CBX_FILE_NAME="scfifo_m521.tdf"/>
-		<CBX_INST_ENTRY INSTANCE_NAME="|edge_detection|vga_pic:u4|ram_ip:u0|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_ico1.tdf"/>
-	</PROJECT>
-</LOG_ROOT>
