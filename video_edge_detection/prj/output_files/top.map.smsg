@@ -1,0 +1,1 @@
+Info (10281): Verilog HDL Declaration information at sccb.v(4): object "CLK" differs only in case from object "clk" in the same scope File: D:/HaoGuojun/MyProject/FPGAProject/Altera_Quartus/Verilog_Project/EdgeDetection_OV5640_VGA/rtl/OV5640/sccb.v Line: 4
