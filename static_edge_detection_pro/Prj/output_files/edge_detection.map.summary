@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Thu Apr 20 16:38:17 2023
+Quartus Prime Version : 18.0.0 Build 614 04/24/2018 SJ Standard Edition
+Revision Name : edge_detection
+Top-level Entity Name : edge_detection
+Family : Cyclone IV E
+Total logic elements : 963
+    Total combinational functions : 833
+    Dedicated logic registers : 490
+Total registers : 490
+Total pins : 30
+Total virtual pins : 0
+Total memory bits : 278,528
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 1

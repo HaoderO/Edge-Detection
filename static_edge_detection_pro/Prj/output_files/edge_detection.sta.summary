@@ -1,0 +1,161 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'u0|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -10.560
+TNS   : -190.802
+
+Type  : Slow 1200mV 85C Model Setup 'vga_ctrl:u3|h_cnt[4]'
+Slack : -7.598
+TNS   : -115.455
+
+Type  : Slow 1200mV 85C Model Setup 'u0|altpll_component|auto_generated|pll1|clk[1]'
+Slack : -5.017
+TNS   : -36.143
+
+Type  : Slow 1200mV 85C Model Setup 'dynamic_scanning_display:u6|sel_seg_ctrl:u2|vision_clk'
+Slack : -1.057
+TNS   : -3.576
+
+Type  : Slow 1200mV 85C Model Hold 'u0|altpll_component|auto_generated|pll1|clk[1]'
+Slack : -0.233
+TNS   : -0.233
+
+Type  : Slow 1200mV 85C Model Hold 'u0|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 0.432
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'dynamic_scanning_display:u6|sel_seg_ctrl:u2|vision_clk'
+Slack : 0.669
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'vga_ctrl:u3|h_cnt[4]'
+Slack : 1.630
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'dynamic_scanning_display:u6|sel_seg_ctrl:u2|vision_clk'
+Slack : -1.487
+TNS   : -11.896
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'vga_ctrl:u3|h_cnt[4]'
+Slack : 0.322
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'u0|altpll_component|auto_generated|pll1|clk[1]'
+Slack : 9.708
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'board_clk'
+Slack : 9.934
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'u0|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 19.701
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'u0|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -9.471
+TNS   : -166.661
+
+Type  : Slow 1200mV 0C Model Setup 'vga_ctrl:u3|h_cnt[4]'
+Slack : -7.521
+TNS   : -116.499
+
+Type  : Slow 1200mV 0C Model Setup 'u0|altpll_component|auto_generated|pll1|clk[1]'
+Slack : -4.482
+TNS   : -31.807
+
+Type  : Slow 1200mV 0C Model Setup 'dynamic_scanning_display:u6|sel_seg_ctrl:u2|vision_clk'
+Slack : -0.877
+TNS   : -2.702
+
+Type  : Slow 1200mV 0C Model Hold 'u0|altpll_component|auto_generated|pll1|clk[1]'
+Slack : -0.344
+TNS   : -0.344
+
+Type  : Slow 1200mV 0C Model Hold 'u0|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 0.382
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'dynamic_scanning_display:u6|sel_seg_ctrl:u2|vision_clk'
+Slack : 0.619
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'vga_ctrl:u3|h_cnt[4]'
+Slack : 1.524
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'dynamic_scanning_display:u6|sel_seg_ctrl:u2|vision_clk'
+Slack : -1.487
+TNS   : -11.896
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'vga_ctrl:u3|h_cnt[4]'
+Slack : -0.021
+TNS   : -0.300
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'u0|altpll_component|auto_generated|pll1|clk[1]'
+Slack : 9.675
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'board_clk'
+Slack : 9.943
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'u0|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 19.661
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'u0|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -4.732
+TNS   : -83.677
+
+Type  : Fast 1200mV 0C Model Setup 'vga_ctrl:u3|h_cnt[4]'
+Slack : -3.489
+TNS   : -53.398
+
+Type  : Fast 1200mV 0C Model Setup 'u0|altpll_component|auto_generated|pll1|clk[1]'
+Slack : -1.810
+TNS   : -12.737
+
+Type  : Fast 1200mV 0C Model Setup 'dynamic_scanning_display:u6|sel_seg_ctrl:u2|vision_clk'
+Slack : 0.123
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'u0|altpll_component|auto_generated|pll1|clk[1]'
+Slack : -0.068
+TNS   : -0.068
+
+Type  : Fast 1200mV 0C Model Hold 'u0|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 0.178
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'dynamic_scanning_display:u6|sel_seg_ctrl:u2|vision_clk'
+Slack : 0.272
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'vga_ctrl:u3|h_cnt[4]'
+Slack : 0.735
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'dynamic_scanning_display:u6|sel_seg_ctrl:u2|vision_clk'
+Slack : -1.000
+TNS   : -8.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'vga_ctrl:u3|h_cnt[4]'
+Slack : 0.139
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'board_clk'
+Slack : 9.594
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'u0|altpll_component|auto_generated|pll1|clk[1]'
+Slack : 9.732
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'u0|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 19.734
+TNS   : 0.000
+
+------------------------------------------------------------
